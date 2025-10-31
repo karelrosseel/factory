@@ -1,0 +1,183 @@
+﻿{"frames": [
+
+{
+	"filename": "laufDose0000",
+	"frame": {"x":0,"y":0,"w":89,"h":87},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":89,"h":87},
+	"sourceSize": {"w":89,"h":87}
+}
+,{
+	"filename": "laufDose0001",
+	"frame": {"x":89,"y":0,"w":89,"h":87},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":89,"h":87},
+	"sourceSize": {"w":89,"h":87}
+}
+,{
+	"filename": "laufDose0002",
+	"frame": {"x":178,"y":0,"w":89,"h":87},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":89,"h":87},
+	"sourceSize": {"w":89,"h":87}
+}
+,{
+	"filename": "laufDose0003",
+	"frame": {"x":267,"y":0,"w":89,"h":87},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":89,"h":87},
+	"sourceSize": {"w":89,"h":87}
+}
+,{
+	"filename": "laufDose0004",
+	"frame": {"x":356,"y":0,"w":89,"h":87},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":89,"h":87},
+	"sourceSize": {"w":89,"h":87}
+}
+,{
+	"filename": "laufDose0005",
+	"frame": {"x":0,"y":87,"w":89,"h":87},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":89,"h":87},
+	"sourceSize": {"w":89,"h":87}
+}
+,{
+	"filename": "laufDose0006",
+	"frame": {"x":89,"y":87,"w":89,"h":87},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":89,"h":87},
+	"sourceSize": {"w":89,"h":87}
+}
+,{
+	"filename": "laufDose0007",
+	"frame": {"x":178,"y":87,"w":89,"h":87},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":89,"h":87},
+	"sourceSize": {"w":89,"h":87}
+}
+,{
+	"filename": "laufDose0008",
+	"frame": {"x":267,"y":87,"w":89,"h":87},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":89,"h":87},
+	"sourceSize": {"w":89,"h":87}
+}
+,{
+	"filename": "laufDose0009",
+	"frame": {"x":356,"y":87,"w":89,"h":87},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":89,"h":87},
+	"sourceSize": {"w":89,"h":87}
+}
+,{
+	"filename": "laufDose0010",
+	"frame": {"x":0,"y":174,"w":89,"h":87},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":89,"h":87},
+	"sourceSize": {"w":89,"h":87}
+}
+,{
+	"filename": "laufDose0011",
+	"frame": {"x":89,"y":174,"w":89,"h":87},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":89,"h":87},
+	"sourceSize": {"w":89,"h":87}
+}
+,{
+	"filename": "laufDose0012",
+	"frame": {"x":178,"y":174,"w":89,"h":87},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":89,"h":87},
+	"sourceSize": {"w":89,"h":87}
+}
+,{
+	"filename": "laufDose0013",
+	"frame": {"x":267,"y":174,"w":89,"h":87},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":89,"h":87},
+	"sourceSize": {"w":89,"h":87}
+}
+,{
+	"filename": "laufDose0014",
+	"frame": {"x":356,"y":174,"w":89,"h":87},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":89,"h":87},
+	"sourceSize": {"w":89,"h":87}
+}
+,{
+	"filename": "laufDose0015",
+	"frame": {"x":0,"y":261,"w":89,"h":87},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":89,"h":87},
+	"sourceSize": {"w":89,"h":87}
+}
+,{
+	"filename": "laufDose0016",
+	"frame": {"x":89,"y":261,"w":89,"h":87},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":89,"h":87},
+	"sourceSize": {"w":89,"h":87}
+}
+,{
+	"filename": "laufDose0017",
+	"frame": {"x":178,"y":261,"w":89,"h":87},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":89,"h":87},
+	"sourceSize": {"w":89,"h":87}
+}
+,{
+	"filename": "laufDose0018",
+	"frame": {"x":267,"y":261,"w":89,"h":87},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":89,"h":87},
+	"sourceSize": {"w":89,"h":87}
+}
+,{
+	"filename": "laufDose0019",
+	"frame": {"x":356,"y":261,"w":89,"h":87},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":89,"h":87},
+	"sourceSize": {"w":89,"h":87}
+}
+,{
+	"filename": "laufDose0020",
+	"frame": {"x":0,"y":348,"w":89,"h":87},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":89,"h":87},
+	"sourceSize": {"w":89,"h":87}
+}],
+   "animations": {
+    "walk": [0, 17],
+    "fly": [19, 20]
+  },
+"meta": {
+	"app": "Adobe Animate",
+	"version": "24.0.10.14",
+	"image": "dosi_klein.png",
+	"format": "RGBA8888",
+	"size": {"w":512,"h":512},
+	"scale": "1"
+}
+}
