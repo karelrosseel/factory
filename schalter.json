@@ -1,0 +1,27 @@
+﻿{"frames": [
+
+{
+	"filename": "schalter0000",
+	"frame": {"x":0,"y":0,"w":53,"h":117},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":53,"h":117},
+	"sourceSize": {"w":53,"h":117}
+}
+,{
+	"filename": "schalter0001",
+	"frame": {"x":53,"y":0,"w":53,"h":117},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":53,"h":117},
+	"sourceSize": {"w":53,"h":117}
+}],
+"meta": {
+	"app": "Adobe Animate",
+	"version": "24.0.10.14",
+	"image": "schalter.png",
+	"format": "RGBA8888",
+	"size": {"w":128,"h":128},
+	"scale": "1"
+}
+}
